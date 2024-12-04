@@ -21,6 +21,8 @@ This is just the beginning.
 ## Image
 ![Butterfly](https://ssec.si.edu/sites/default/files/blogpost/images/BUTTERFLY%20WING%20OPTICS.png)
 
+![racoon](./racoon.png)
+
 
 ## Code
 
