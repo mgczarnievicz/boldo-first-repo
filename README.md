@@ -17,3 +17,6 @@ This is just the beginning.
 
 ## Link a page
 [Spiced Academy](https://www.spiced-academy.com/en)
+
+## Image
+![Butterfly](https://ssec.si.edu/sites/default/files/blogpost/images/BUTTERFLY%20WING%20OPTICS.png)
